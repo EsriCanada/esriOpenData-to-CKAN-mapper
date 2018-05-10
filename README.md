@@ -5,7 +5,8 @@ Small python script for the mapping of an ArcGIS OpenData site to a CKAN instanc
 Here are the required files for the mapper to work
 
 ### EsriToCKAN.py
-This is the python file to execute. More details to come
+This is the python file to execute. More details to come.
+- Need to change the CKAN URL to use parameters instead of hardcoded values
 
 ### EsriToCKAN.json
 This is the JSON template. More details to come
