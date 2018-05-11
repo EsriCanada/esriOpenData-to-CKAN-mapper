@@ -13,7 +13,7 @@ import json
 from pprint import pprint
 import csv
 import os, sys
-import urllib, datetime
+import urllib, datetime, time
 #Identification du répertoire dans lequel le script se trouve et identification du template CKAN
 repertoire = os.getcwd()
 found = False
@@ -34,7 +34,11 @@ if len(sys.argv) > 1:
             found = True
             break
     if found == True:
-        outFolder = r"D:\OneDrive - Esri Canada\Projets\2018\CKAN\V2\outputs"
+        outFolder = os.path.join(repertoire,"outputs")
+        try:
+            os.makedirs(outFolder)
+        except OSError:
+            pass
         modele= os.path.join(repertoire, "esriToCKAN.json")
         timestart = datetime.datetime.now()
         #Chargement de l'URL Open Data
@@ -141,8 +145,13 @@ if len(sys.argv) > 1:
             #Si l'index existe, mise à jour de l'index et changement de la valeur d'état.
             print "L'index existe. Mise a jour de l'index."
             
-            url = "https://www.donneesquebec.ca/recherche/api/3/action/package_search?q=organization:ville-de-shawinigan&rows=100000"
-            response = urllib.urlopen(url)
+            try:
+                url = "https://www.donneesquebec.ca/recherche/api/3/action/package_search?q=organization:"+sys.argv[1]+"&rows=100000"
+                response = urllib.urlopen(url)
+            except:
+                print "L'Instance CKAN ne contient pas de donnees pour l'organisation " + sys.argv[1]
+                time.sleep(3)
+                sys.exit()
             ckanData = json.loads(response.read())
             ckanRes = ckanData['result']['results']
             nbLayers = len(ckanRes)
