@@ -84,6 +84,9 @@ if len(sys.argv) > 1:
                 else:
                     correct = True;
             target['author'] = source['dataset'][i]['contactPoint']['fn']
+            target['extras_organisation_principale'] = sys.argv[1]
+            target['owner_org'] = ownerOrg
+            target["ext_spatial"]=extSpatial
             target['author_email'] = source['dataset'][i]['contactPoint']['hasEmail'][6:]
             target['url'] = source['dataset'][i]['identifier']
             target['metadata_created'] = source['dataset'][i]['issued']

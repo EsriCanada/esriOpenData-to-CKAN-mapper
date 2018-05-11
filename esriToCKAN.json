@@ -1,7 +1,7 @@
 {  
     "license_title": "Creative Commons - Attribution 4.0", 
     "maintainer": null, 
-    "extras_organisation_principale": "ville-de-shawinigan", 
+    "extras_organisation_principale": "", 
     "relationships_as_object": [], 
     "private": false, 
     "maintainer_email": null, 
@@ -391,7 +391,7 @@
     "methodologie": "",  
     "creator_user_id": "", 
     "relationships_as_subject": [], 
-    "ext_spatial": "ville-shawinigan", 
+    "ext_spatial": "", 
     "organization": {
         "created": "", 
         "title": "", 
@@ -407,7 +407,7 @@
     "name": "", 
     "isopen": true, 
     "url": "", 
-    "owner_org": "00fde186-c76f-499e-9dfc-ed3c5cec8c71", 
+    "owner_org": "", 
     "license_url": "https://www.donneesquebec.ca/fr/licence/#cc-by", 
     "title": "", 
     "revision_id": ""
