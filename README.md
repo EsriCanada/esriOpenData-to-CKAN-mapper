@@ -11,8 +11,6 @@ Here are the required files for the mapper to work
 ### EsriToCKAN.py
 This is the python file to execute. The python file reads from the organisations.csv file to identify the organizations and urls required, then create several JSON files for the layers. It also create a "package_list.json" file that serves as an index for CKAN.
 
-- Need to change the CKAN URL to use parameters instead of hardcoded values
-
 ### EsriToCKAN.json
 This is the JSON template. The python script uses that as a template for the output json files. The metadata schema is the one decided by the Government of Quebec's Open Data site (http://donneesquebec.ca)
 
