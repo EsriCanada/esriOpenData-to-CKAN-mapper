@@ -14,6 +14,7 @@ from pprint import pprint
 import csv
 import os, sys
 import urllib, datetime, time
+from html2text import html2text
 #Identification du répertoire dans lequel le script se trouve et identification du template CKAN
 repertoire = os.getcwd()
 found = False
@@ -66,6 +67,8 @@ if len(sys.argv) > 1:
             newIDs.append(uniqueID)
             newtimeStamps.append(source['dataset'][i]['modified'])
             target['title'] = source['dataset'][i]['title']
+            description = source['dataset'][i]['description']
+            target['description'] = description
             target['name'] = uniqueID
             title = target['title']
             #Création du morceau JSON qui ira dans le Package_list.json (index)

@@ -17,6 +17,7 @@
     "version": null, 
     "license_id": "cc-by", 
     "type": "dataset", 
+    "description":"",
     "resources": [{
         "cache_last_updated": null, 
         "package_id": "", 
