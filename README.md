@@ -17,5 +17,5 @@ This is the JSON template. The python script uses that as a template for the out
 ### organisations.csv
 This is the list of organizations to be processed. The name, id and ext-spatial fields are provided by the CKAN owner. The URL is the URL of an open data site, followed by /data.json. For example, you can acces the Shawinigan Open Data Site here https://donnees-shawinigan.opendata.arcgis.com . In the arcgisURl field, you would append data.json --> https://donnees-shawinigan.opendata.arcgis.com/data.json
 
-###html2text.py
-This is an html to markdown converter that is used to convert the description from ArcGIS Online (HTML) to CKAN (Markdown)
+### html2text.py
+This is an html to markdown converter that is used to convert the description from ArcGIS Online (HTML) to CKAN (Markdown). Taken here: https://github.com/aaronsw/html2text
