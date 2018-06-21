@@ -72,7 +72,7 @@ if len(sys.argv) > 1:
             newtimeStamps.append(source['dataset'][i]['modified'])
             target['title'] = source['dataset'][i]['title']
             description = source['dataset'][i]['description']
-            target['description'] = description
+            target['description'] = html2text(description)
             target['name'] = uniqueID
             title = target['title']
             #Construction de la liste des mots-clés dans une seule séquence
