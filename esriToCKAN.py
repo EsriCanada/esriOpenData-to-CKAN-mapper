@@ -83,10 +83,11 @@ if len(sys.argv) > 1:
                     target['tags'][j]['name'] = source['dataset'][i]['keyword'][j]
                     try:
                         tagIndex = categories.index(source['dataset'][i]['keyword'][j])
-                        categorie = categories[tagIndex]
+                        categorie += '"' + categories[tagIndex] + '",'
                     except ValueError:
                         pass
-            newTags.append(categorie)
+            print(categorie)
+            newTags.append("[" + categorie[:-1]+"]")
             #Création du morceau JSON qui ira dans le Package_list.json (index)
             listeCouches += '{"ID": ' + '"' + uniqueID + '","timestamp" : ' + '"' + source['dataset'][i]['modified'] +  '","categorie" : "' + categorie + '"},'
 
@@ -203,7 +204,7 @@ if len(sys.argv) > 1:
                     outIDs.append(oldIDs[i])
                     outtimestamps.append(oldtimestamps[i])
                     outStates.append("SUPPRESSION")
-                    outCategories.append("")
+                    outCategories.append("[]")
 
             #Identifications des plus récents (mis à jour)
             for i in range(0, len(newIDs)):
@@ -224,7 +225,7 @@ if len(sys.argv) > 1:
             listeCouches = ""
             #Création du morceau de JSON pour Package_list.json, l'index.
             for i in range(0, len(outIDs)):
-                listeCouches += '{"ID": ' + '"' + str(outIDs[i]) + '","timestamp" : ' + '"' + str(outtimestamps[i]) +'","etat" : "' + str(outStates[i]) +  '","categorie" : "' + outCategories[i] + '"},'
+                listeCouches += '{"ID": ' + '"' + str(outIDs[i]) + '","timestamp" : ' + '"' + str(outtimestamps[i]) +'","etat" : "' + str(outStates[i]) +  '","categorie" : ' + outCategories[i] + '},'
             listeCouches = listeCouches[:-1]
             with open(outFolder + "\\package_list.json", "w") as index:
                 index.write('{"help": "https://www.donneesquebec.ca/recherche/api/3/action/help_show?name=package_list", "success": true, "result": ['+listeCouches+']}')
