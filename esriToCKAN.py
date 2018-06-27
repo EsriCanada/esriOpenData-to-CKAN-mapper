@@ -89,7 +89,7 @@ if len(sys.argv) > 1:
             print(categorie)
             newTags.append("[" + categorie[:-1]+"]")
             #Création du morceau JSON qui ira dans le Package_list.json (index)
-            listeCouches += '{"ID": ' + '"' + uniqueID + '","timestamp" : ' + '"' + source['dataset'][i]['modified'] +  '","categorie" : "' + categorie + '"},'
+            listeCouches += '{"ID": ' + '"' + uniqueID + '","timestamp" : ' + '"' + source['dataset'][i]['modified'] +  '","categorie" : ' + "[" + categorie[:-1]+"]" + '},'
 
             #logique de validation qui supprimera les TAGS laissés vides.
             correct = False
@@ -225,7 +225,7 @@ if len(sys.argv) > 1:
             listeCouches = ""
             #Création du morceau de JSON pour Package_list.json, l'index.
             for i in range(0, len(outIDs)):
-                listeCouches += '{"ID": ' + '"' + str(outIDs[i]) + '","timestamp" : ' + '"' + str(outtimestamps[i]) +'","etat" : "' + str(outStates[i]) +  '","categorie" : ' + outCategories[i] + '},'
+                listeCouches += '{"ID": ' + '"' + str(outIDs[i]) + '","timestamp" : ' + '"' + str(outtimestamps[i]) +'","etat" : "' + str(outStates[i]) +  '","categorie" : [' + category + ']},'
             listeCouches = listeCouches[:-1]
             with open(outFolder + "\\package_list.json", "w") as index:
                 index.write('{"help": "https://www.donneesquebec.ca/recherche/api/3/action/help_show?name=package_list", "success": true, "result": ['+listeCouches+']}')
