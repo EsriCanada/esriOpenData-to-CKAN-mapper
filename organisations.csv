@@ -1,2 +1,5 @@
-﻿extras_organisation_principale,owner_org,ext_spatial,arcgisUrl
-example-city,89543-543-5435435,example-extent,url
+extras_organisation_principale,owner_org,ext_spatial,arcgisUrl
+ville-de-shawinigan,00fde186-c76f-499e-9dfc-ed3c5cec8c71,ville-shawinigan,https://donnees-shawinigan.opendata.arcgis.com/data.json
+esriorg01,611ba46b-537e-4138-8496-f93b166caab8,ville-shawinigan,http://data-fredericton.opendata.arcgis.com/data.json
+esriorg02,0b22bf7b-dd99-4c46-92f7-17de47b26204,ville-shawinigan,http://geohub.brampton.ca/data.json
+esriorg03,e52db0ac-a21e-4c33-9a75-f689bb182a52,ville-shawinigan,http://opendata.wichita.gov/data.json

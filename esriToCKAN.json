@@ -390,6 +390,88 @@
         }], 
     "language": "FR", 
     "methodologie": "",  
+    "groups": [
+        {
+            "display_name": "",
+            "description": "",
+            "image_display_url": "",
+            "title": "",
+            "id": "",
+            "name": ""
+        },
+        {
+            "display_name": "",
+            "description": "",
+            "image_display_url": "",
+            "title": "",
+            "id": "",
+            "name": ""
+        },
+        {
+            "display_name": "",
+            "description": "",
+            "image_display_url": "",
+            "title": "",
+            "id": "",
+            "name": ""
+        },
+        {
+            "display_name": "",
+            "description": "",
+            "image_display_url": "",
+            "title": "",
+            "id": "",
+            "name": ""
+        },
+        {
+            "display_name": "",
+            "description": "",
+            "image_display_url": "",
+            "title": "",
+            "id": "",
+            "name": ""
+        },
+        {
+            "display_name": "",
+            "description": "",
+            "image_display_url": "",
+            "title": "",
+            "id": "",
+            "name": ""
+        },
+        {
+            "display_name": "",
+            "description": "",
+            "image_display_url": "",
+            "title": "",
+            "id": "",
+            "name": ""
+        },
+        {
+            "display_name": "",
+            "description": "",
+            "image_display_url": "",
+            "title": "",
+            "id": "",
+            "name": ""
+        },
+        {
+            "display_name": "",
+            "description": "",
+            "image_display_url": "",
+            "title": "",
+            "id": "",
+            "name": ""
+        },
+        {
+            "display_name": "",
+            "description": "",
+            "image_display_url": "",
+            "title": "",
+            "id": "",
+            "name": ""
+        }
+    ],
     "creator_user_id": "", 
     "relationships_as_subject": [], 
     "ext_spatial": "", 
@@ -408,6 +490,7 @@
     "name": "", 
     "isopen": true, 
     "url": "", 
+    "notes": "",
     "owner_org": "", 
     "license_url": "https://www.donneesquebec.ca/fr/licence/#cc-by", 
     "title": "", 
