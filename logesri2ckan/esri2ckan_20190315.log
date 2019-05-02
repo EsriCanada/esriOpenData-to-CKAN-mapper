@@ -1,0 +1,44 @@
+
+
+Processus de moissonnage exécuté pour : [ville-de-sherbrooke-donnees-geomatiques]
+----- Correspondance trouvée.
+----- 15 couches présentes sur OpenData.
+----- Début du traitement
+---- ---- Panonceaux d'espace de stationnement
+---- ---- ---- catégories : "transport"
+---- ---- Pistes cyclables
+---- ---- ---- catégories : "infrastructures","transport","tourisme-sports-loisirs"
+---- ---- Stationnements publics
+---- ---- ---- catégories : "transport"
+---- ---- Horodateurs
+---- ---- ---- catégories : "transport"
+---- ---- Périmètre urbain
+---- ---- ---- catégories : "gouvernement-finances"
+---- ---- Zones de glissement de terrain
+---- ---- ---- catégories : "loi-justice-securite-publique","environnement-ressources-naturelles-energie"
+---- ---- Segments de rue
+---- ---- ---- catégories : "infrastructures","transport"
+---- ---- Aires aménagées
+---- ---- ---- catégories : "environnement-ressources-naturelles-energie","tourisme-sports-loisirs"
+---- ---- Bâtiments
+---- ---- ---- catégories : "infrastructures"
+---- ---- Sites d'intérêt
+---- ---- ---- catégories : "infrastructures","tourisme-sports-loisirs"
+---- ---- Districts électoraux
+---- ---- ---- catégories : "gouvernement-finances"
+---- ---- Arrondissements
+---- ---- ---- catégories : "gouvernement-finances"
+---- ---- Zones inondables
+---- ---- ---- catégories : "environnement-ressources-naturelles-energie","loi-justice-securite-publique"
+---- ---- Incidents de sécurité publique
+---- ---- ---- catégories : "loi-justice-securite-publique"
+---- ---- Courbes de niveau
+---- ---- ---- catégories : "environnement-ressources-naturelles-energie"
+----- Fin de l'écriture du CSV initial
+
+
+----- L'index existe. Mise à jour de l'index.
+----- ----- 17 couches sur CKAN
+----- Traitement effectué en 3.379312 secondes
+Fin du Processus de moissonnage de : [ville-de-sherbrooke-donnees-geomatiques]
+Fin des opérations : 2019-03-15 15:02:29.128565

@@ -1,0 +1,120 @@
+
+
+Processus de moissonnage exécuté pour : [ville-de-rouyn-noranda]
+----- Correspondance trouvée.
+----- 11 couches présentes sur OpenData.
+----- Début du traitement
+Freq update: monthly
+----- ----- ----- ERREUR : Construction de la liste des mots-clés perturbée. Cause probable : 'avenue' is not in list
+----- ----- ----- ERREUR : Construction de la liste des mots-clés perturbée. Cause probable : 'boulevard' is not in list
+----- ----- ----- ERREUR : Construction de la liste des mots-clés perturbée. Cause probable : 'chaussée' is not in list
+----- ----- ----- ERREUR : Construction de la liste des mots-clés perturbée. Cause probable : 'chemin' is not in list
+----- ----- ----- ERREUR : Construction de la liste des mots-clés perturbée. Cause probable : 'montée' is not in list
+----- ----- ----- ERREUR : Construction de la liste des mots-clés perturbée. Cause probable : 'odonyme' is not in list
+----- ----- ----- ERREUR : Construction de la liste des mots-clés perturbée. Cause probable : 'place' is not in list
+----- ----- ----- ERREUR : Construction de la liste des mots-clés perturbée. Cause probable : 'rang' is not in list
+----- ----- ----- ERREUR : Construction de la liste des mots-clés perturbée. Cause probable : 'route' is not in list
+----- ----- ----- ERREUR : Construction de la liste des mots-clés perturbée. Cause probable : 'rue' is not in list
+----- ----- ----- ERREUR : Construction de la liste des mots-clés perturbée. Cause probable : 'réseau routier' is not in list
+----- ----- ----- ERREUR : Construction de la liste des mots-clés perturbée. Cause probable : 'tronçon' is not in list
+----- ----- ----- ERREUR : Construction de la liste des mots-clés perturbée. Cause probable : 'voie publique' is not in list
+---- ---- Réseau routier
+---- ---- ---- catégories : "transport","infrastructures"
+Freq update: monthly
+----- ----- ----- ERREUR : Construction de la liste des mots-clés perturbée. Cause probable : 'bâtiment' is not in list
+----- ----- ----- ERREUR : Construction de la liste des mots-clés perturbée. Cause probable : 'contour' is not in list
+----- ----- ----- ERREUR : Construction de la liste des mots-clés perturbée. Cause probable : 'empreinte' is not in list
+---- ---- Empreintes des bâtiments
+---- ---- ---- catégories : "infrastructures"
+Freq update: asNeeded
+----- ----- ----- ERREUR : Construction de la liste des mots-clés perturbée. Cause probable : 'marais' is not in list
+----- ----- ----- ERREUR : Construction de la liste des mots-clés perturbée. Cause probable : 'étang' is not in list
+----- ----- ----- ERREUR : Construction de la liste des mots-clés perturbée. Cause probable : 'hydrographie' is not in list
+----- ----- ----- ERREUR : Construction de la liste des mots-clés perturbée. Cause probable : 'milieu' is not in list
+----- ----- ----- ERREUR : Construction de la liste des mots-clés perturbée. Cause probable : 'humide' is not in list
+---- ---- Milieux humides
+---- ---- ---- catégories : (vide)
+Freq update: asNeeded
+----- ----- ----- ERREUR : Construction de la liste des mots-clés perturbée. Cause probable : 'gouvernement' is not in list
+----- ----- ----- ERREUR : Construction de la liste des mots-clés perturbée. Cause probable : 'limite' is not in list
+----- ----- ----- ERREUR : Construction de la liste des mots-clés perturbée. Cause probable : 'municipale' is not in list
+----- ----- ----- ERREUR : Construction de la liste des mots-clés perturbée. Cause probable : 'ville' is not in list
+----- ----- ----- ERREUR : Construction de la liste des mots-clés perturbée. Cause probable : 'rouyn-noranda' is not in list
+----- ----- ----- ERREUR : Construction de la liste des mots-clés perturbée. Cause probable : 'administrative' is not in list
+---- ---- Limite municipale
+---- ---- ---- catégories : "gouvernement-finances"
+----- ----- ----- ERREUR : Récupération de la Fréquence de mise à jour impossible. Cause probable : list index out of range
+Freq update: asneeded
+----- ----- ----- ERREUR : Construction de la liste des mots-clés perturbée. Cause probable : 'adresse' is not in list
+----- ----- ----- ERREUR : Construction de la liste des mots-clés perturbée. Cause probable : 'odonyme' is not in list
+----- ----- ----- ERREUR : Construction de la liste des mots-clés perturbée. Cause probable : 'numéro' is not in list
+----- ----- ----- ERREUR : Construction de la liste des mots-clés perturbée. Cause probable : 'civique' is not in list
+----- ----- ----- ERREUR : Construction de la liste des mots-clés perturbée. Cause probable : 'immeuble' is not in list
+----- ----- ----- ERREUR : Construction de la liste des mots-clés perturbée. Cause probable : 'rue' is not in list
+---- ---- Adresses
+---- ---- ---- catégories : "transport","infrastructures"
+Freq update: asNeeded
+----- ----- ----- ERREUR : Construction de la liste des mots-clés perturbée. Cause probable : 'conseiller' is not in list
+----- ----- ----- ERREUR : Construction de la liste des mots-clés perturbée. Cause probable : 'district' is not in list
+----- ----- ----- ERREUR : Construction de la liste des mots-clés perturbée. Cause probable : 'gouvernement' is not in list
+----- ----- ----- ERREUR : Construction de la liste des mots-clés perturbée. Cause probable : 'élection' is not in list
+----- ----- ----- ERREUR : Construction de la liste des mots-clés perturbée. Cause probable : 'électoral' is not in list
+---- ---- Districts électoraux
+---- ---- ---- catégories : "gouvernement-finances"
+Freq update: weekly
+----- ----- ----- ERREUR : Construction de la liste des mots-clés perturbée. Cause probable : 'environnement' is not in list
+----- ----- ----- ERREUR : Construction de la liste des mots-clés perturbée. Cause probable : 'baie' is not in list
+----- ----- ----- ERREUR : Construction de la liste des mots-clés perturbée. Cause probable : 'hydrographie' is not in list
+----- ----- ----- ERREUR : Construction de la liste des mots-clés perturbée. Cause probable : 'lac' is not in list
+----- ----- ----- ERREUR : Construction de la liste des mots-clés perturbée. Cause probable : 'marais' is not in list
+----- ----- ----- ERREUR : Construction de la liste des mots-clés perturbée. Cause probable : 'polygonale' is not in list
+----- ----- ----- ERREUR : Construction de la liste des mots-clés perturbée. Cause probable : 'polygone' is not in list
+----- ----- ----- ERREUR : Construction de la liste des mots-clés perturbée. Cause probable : 'rivière' is not in list
+----- ----- ----- ERREUR : Construction de la liste des mots-clés perturbée. Cause probable : 'surfacique' is not in list
+---- ---- Hydrographie surfacique
+---- ---- ---- catégories : "environnement-ressources-naturelles-energie"
+Freq update: asNeeded
+----- ----- ----- ERREUR : Construction de la liste des mots-clés perturbée. Cause probable : 'gouvernement' is not in list
+----- ----- ----- ERREUR : Construction de la liste des mots-clés perturbée. Cause probable : 'adresse' is not in list
+----- ----- ----- ERREUR : Construction de la liste des mots-clés perturbée. Cause probable : 'finances' is not in list
+----- ----- ----- ERREUR : Construction de la liste des mots-clés perturbée. Cause probable : 'foncier' is not in list
+----- ----- ----- ERREUR : Construction de la liste des mots-clés perturbée. Cause probable : 'frontage' is not in list
+----- ----- ----- ERREUR : Construction de la liste des mots-clés perturbée. Cause probable : 'matrice graphique' is not in list
+----- ----- ----- ERREUR : Construction de la liste des mots-clés perturbée. Cause probable : 'matricule' is not in list
+----- ----- ----- ERREUR : Construction de la liste des mots-clés perturbée. Cause probable : 'profondeur' is not in list
+----- ----- ----- ERREUR : Construction de la liste des mots-clés perturbée. Cause probable : 'rôle' is not in list
+----- ----- ----- ERREUR : Construction de la liste des mots-clés perturbée. Cause probable : 'superficie' is not in list
+----- ----- ----- ERREUR : Construction de la liste des mots-clés perturbée. Cause probable : 'unité' is not in list
+----- ----- ----- ERREUR : Construction de la liste des mots-clés perturbée. Cause probable : 'évaluation' is not in list
+---- ---- Unités d'évaluation
+---- ---- ---- catégories : "gouvernement-finances"
+Freq update: weekly
+----- ----- ----- ERREUR : Construction de la liste des mots-clés perturbée. Cause probable : 'environnement' is not in list
+----- ----- ----- ERREUR : Construction de la liste des mots-clés perturbée. Cause probable : 'cours' is not in list
+----- ----- ----- ERREUR : Construction de la liste des mots-clés perturbée. Cause probable : 'eau' is not in list
+----- ----- ----- ERREUR : Construction de la liste des mots-clés perturbée. Cause probable : 'crique' is not in list
+----- ----- ----- ERREUR : Construction de la liste des mots-clés perturbée. Cause probable : 'hydrographie' is not in list
+----- ----- ----- ERREUR : Construction de la liste des mots-clés perturbée. Cause probable : 'linéaire' is not in list
+----- ----- ----- ERREUR : Construction de la liste des mots-clés perturbée. Cause probable : 'rivière' is not in list
+----- ----- ----- ERREUR : Construction de la liste des mots-clés perturbée. Cause probable : 'ruisseau' is not in list
+---- ---- Hydrographie linéaire
+---- ---- ---- catégories : "environnement-ressources-naturelles-energie"
+Freq update: asNeeded
+----- ----- ----- ERREUR : Construction de la liste des mots-clés perturbée. Cause probable : 'gouvernement' is not in list
+----- ----- ----- ERREUR : Construction de la liste des mots-clés perturbée. Cause probable : 'administrative' is not in list
+----- ----- ----- ERREUR : Construction de la liste des mots-clés perturbée. Cause probable : 'limite' is not in list
+----- ----- ----- ERREUR : Construction de la liste des mots-clés perturbée. Cause probable : 'ancienne' is not in list
+----- ----- ----- ERREUR : Construction de la liste des mots-clés perturbée. Cause probable : 'municipalité' is not in list
+---- ---- Limites des anciennes municipalités
+---- ---- ---- catégories : "gouvernement-finances"
+Freq update: asNeeded
+----- ----- ----- ERREUR : Construction de la liste des mots-clés perturbée. Cause probable : 'chemin-de-fer' is not in list
+----- ----- ----- ERREUR : Construction de la liste des mots-clés perturbée. Cause probable : 'réseau-ferroviaire' is not in list
+----- ----- ----- ERREUR : Construction de la liste des mots-clés perturbée. Cause probable : 'voie-ferrée' is not in list
+---- ---- Réseau ferroviaire
+---- ---- ---- catégories : "transport","infrastructures"
+----- Fin de l'écriture du CSV initial
+
+
+----- L'index existe. Mise à jour de l'index.
+----- ERREUR : L'instance CKAN ne contient pas de données pour l'organisation ville-de-rouyn-noranda

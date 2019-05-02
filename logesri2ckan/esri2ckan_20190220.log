@@ -1,0 +1,47 @@
+
+
+Processus de moissonnage exécuté pour : [ville-de-sherbrooke]
+----- Correspondance trouvée.
+----- 18 couches présentes sur OpenData.
+----- Début du traitement
+---- ---- Test
+---- ---- ---- catégories : (vide)
+---- ---- Incidents de sécurité publique
+---- ---- ---- catégories : (vide)
+---- ---- Zones de glissement de terrain
+---- ---- ---- catégories : (vide)
+---- ---- Priorités de déneigement des rues
+---- ---- ---- catégories : (vide)
+---- ---- Arrondissements
+---- ---- ---- catégories : (vide)
+---- ---- Districts électoraux
+---- ---- ---- catégories : (vide)
+---- ---- Périmètre urbain
+---- ---- ---- catégories : (vide)
+---- ---- Horodateurs
+---- ---- ---- catégories : (vide)
+---- ---- Panonceaux d'espace de stationnement
+---- ---- ---- catégories : (vide)
+---- ---- Segments de rue
+---- ---- ---- catégories : (vide)
+---- ---- Zones inondables
+---- ---- ---- catégories : (vide)
+---- ---- Stationnements publics
+---- ---- ---- catégories : (vide)
+---- ---- Sites d'intérêt
+---- ---- ---- catégories : (vide)
+---- ---- Secteurs et calendrier des collectes
+---- ---- ---- catégories : (vide)
+---- ---- Pistes cyclables
+---- ---- ---- catégories : (vide)
+---- ---- Aires aménagées
+---- ---- ---- catégories : (vide)
+---- ---- Bâtiments
+---- ---- ---- catégories : (vide)
+---- ---- Courbes de niveau
+---- ---- ---- catégories : (vide)
+----- Fin de l'écriture du CSV initial
+
+
+----- L'index existe. Mise à jour de l'index.
+----- ERREUR : L'instance CKAN ne contient pas de données pour l'organisation ville-de-sherbrooke

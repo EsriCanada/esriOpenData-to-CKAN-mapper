@@ -1,0 +1,558 @@
+{  
+    "license_title": "Creative Commons - Attribution 4.0", 
+    "maintainer": null, 
+    "extras_organisation_principale": "", 
+    "relationships_as_object": [], 
+    "private": false, 
+    "maintainer_email": null, 
+    "num_tags": "", 
+    "update_frequency": "irregular", 
+    "metadata_created": "", 
+    "metadata_modified": "", 
+    "author": "", 
+    "author_email": "", 
+    "temporal": "",
+    "state": "active", 
+    "version": null, 
+    "license_id": "cc-by", 
+    "type": "dataset", 
+    "description":"",
+    "resources": [{
+        "cache_last_updated": null, 
+        "package_id": "", 
+        "webstore_last_updated": null, 
+        "datastore_active": true, 
+        "id": "", 
+        "size": null, 
+        "state": "active", 
+        "hash": "", 
+        "format": "HTML", 
+        "mimetype_inner": null,
+        "url_type": "", 
+        "mimetype": null, 
+        "cache_url": null, 
+        "name": "", 
+        "url": "", 
+        "webstore_url": null, 
+        "last_modified": "", 
+        "position": 0, 
+        "revision_id": "", 
+        "resource_type": null,
+		"relidi_condon_nombre": "oui",
+		"relidi_condon_valinc": "oui",
+		"relidi_confic_separateur_virgule":"oui",
+		"relidi_condon_boolee":"oui",
+		"relidi_confic_utf8":"oui",
+		"relidi_ressource_complementaire":[],
+		"relidi_confic_pascom":"oui",
+		"relidi_condon_datheu":"oui",
+		"relidi_confic_epsg":"oui",
+		"relidi_description_champs":"relidi.descha.foumet"
+        },{
+        "cache_last_updated": null, 
+        "package_id": "", 
+        "webstore_last_updated": null, 
+        "datastore_active": true, 
+        "id": "", 
+        "size": null, 
+        "state": "active", 
+        "hash": "", 
+        "format": "REST", 
+        "mimetype_inner": null,
+        "url_type": "", 
+        "mimetype": null, 
+        "cache_url": null, 
+        "name": "", 
+        "url": "", 
+        "webstore_url": null, 
+        "last_modified": "", 
+        "position": 1, 
+        "revision_id": "", 
+        "resource_type": null,
+		"relidi_condon_nombre": "oui",
+		"relidi_condon_valinc": "oui",
+		"relidi_confic_separateur_virgule":"oui",
+		"relidi_condon_boolee":"oui",
+		"relidi_confic_utf8":"oui",
+		"relidi_ressource_complementaire":[
+			"relidi.rescom"],
+		"relidi_confic_pascom":"oui",
+		"relidi_condon_datheu":"oui",
+		"relidi_confic_epsg":"oui",
+		"relidi_description_champs":"relidi.descha.foumet"
+        },{
+        "cache_last_updated": null, 
+        "package_id": "", 
+        "webstore_last_updated": null, 
+        "datastore_active": true, 
+        "id": "", 
+        "size": null, 
+        "state": "active", 
+        "hash": "", 
+        "format": "GeoJSON", 
+        "mimetype_inner": null,
+        "url_type": "", 
+        "mimetype": null, 
+        "cache_url": null, 
+        "name": "", 
+        "url": "", 
+        "webstore_url": null, 
+        "last_modified": "", 
+        "position": 2, 
+        "revision_id": "", 
+        "resource_type": null,
+		"relidi_condon_nombre": "oui",
+		"relidi_condon_valinc": "oui",
+		"relidi_confic_separateur_virgule":"oui",
+		"relidi_condon_boolee":"oui",
+		"relidi_confic_utf8":"oui",
+		"relidi_ressource_complementaire":[],
+		"relidi_confic_pascom":"oui",
+		"relidi_condon_datheu":"oui",
+		"relidi_confic_epsg":"oui",
+		"relidi_description_champs":"relidi.descha.foumet"
+        },{
+        "cache_last_updated": null, 
+        "package_id": "", 
+        "webstore_last_updated": null, 
+        "datastore_active": true, 
+        "id": "", 
+        "size": null, 
+        "state": "active", 
+        "hash": "", 
+        "format": "CSV", 
+        "mimetype_inner": null,
+        "url_type": "", 
+        "mimetype": null, 
+        "cache_url": null, 
+        "name": "", 
+        "url": "", 
+        "webstore_url": null, 
+        "last_modified": "", 
+        "position": 3, 
+        "revision_id": "", 
+        "resource_type": null,
+		"relidi_condon_nombre": "oui",
+		"relidi_condon_valinc": "oui",
+		"relidi_confic_separateur_virgule":"oui",
+		"relidi_condon_boolee":"oui",
+		"relidi_confic_utf8":"oui",
+		"relidi_ressource_complementaire":[],
+		"relidi_confic_pascom":"oui",
+		"relidi_condon_datheu":"oui",
+		"relidi_confic_epsg":"oui",
+		"relidi_description_champs":"relidi.descha.foumet"
+        },{
+        "cache_last_updated": null, 
+        "package_id": "", 
+        "webstore_last_updated": null, 
+        "datastore_active": true, 
+        "id": "", 
+        "size": null, 
+        "state": "active", 
+        "hash": "", 
+        "format": "KML", 
+        "mimetype_inner": null,
+        "url_type": "", 
+        "mimetype": null, 
+        "cache_url": null, 
+        "name": "", 
+        "url": "", 
+        "webstore_url": null, 
+        "last_modified": "", 
+        "position": 4, 
+        "revision_id": "", 
+        "resource_type": null,
+		"relidi_condon_nombre": "oui",
+		"relidi_condon_valinc": "oui",
+		"relidi_confic_separateur_virgule":"oui",
+		"relidi_condon_boolee":"oui",
+		"relidi_confic_utf8":"oui",
+		"relidi_ressource_complementaire":[],
+		"relidi_confic_pascom":"oui",
+		"relidi_condon_datheu":"oui",
+		"relidi_confic_epsg":"oui",
+		"relidi_description_champs":"relidi.descha.foumet"
+        },{
+        "cache_last_updated": null, 
+        "package_id": "", 
+        "webstore_last_updated": null, 
+        "datastore_active": true, 
+        "id": "", 
+        "size": null, 
+        "state": "active", 
+        "hash": "", 
+        "format": "SHP", 
+        "mimetype_inner": null,
+        "url_type": "", 
+        "mimetype": null, 
+        "cache_url": null, 
+        "name": "", 
+        "url": "", 
+        "webstore_url": null, 
+        "last_modified": "", 
+        "position": 5, 
+        "revision_id": "", 
+        "resource_type": null,
+		"relidi_condon_nombre": "oui",
+		"relidi_condon_valinc": "oui",
+		"relidi_confic_separateur_virgule":"oui",
+		"relidi_condon_boolee":"oui",
+		"relidi_confic_utf8":"oui",
+		"relidi_ressource_complementaire":[],
+		"relidi_confic_pascom":"oui",
+		"relidi_condon_datheu":"oui",
+		"relidi_confic_epsg":"oui",
+		"relidi_description_champs":"relidi.descha.foumet"}
+        ], 
+    "num_resources": 6, 
+    "tags": [
+        {
+            "vocabulary_id": null, 
+            "state": "active", 
+            "display_name": "", 
+            "id": "", 
+            "name": ""
+        },{
+            "vocabulary_id": null, 
+            "state": "active", 
+            "display_name": "", 
+            "id": "", 
+            "name": ""
+        },{
+            "vocabulary_id": null, 
+            "state": "active", 
+            "display_name": "", 
+            "id": "", 
+            "name": ""
+        },{
+            "vocabulary_id": null, 
+            "state": "active", 
+            "display_name": "", 
+            "id": "", 
+            "name": ""
+        },{
+            "vocabulary_id": null, 
+            "state": "active", 
+            "display_name": "", 
+            "id": "", 
+            "name": ""
+        },{
+            "vocabulary_id": null, 
+            "state": "active", 
+            "display_name": "", 
+            "id": "", 
+            "name": ""
+        },{
+            "vocabulary_id": null, 
+            "state": "active", 
+            "display_name": "", 
+            "id": "", 
+            "name": ""
+        },{
+            "vocabulary_id": null, 
+            "state": "active", 
+            "display_name": "", 
+            "id": "", 
+            "name": ""
+        },{
+            "vocabulary_id": null, 
+            "state": "active", 
+            "display_name": "", 
+            "id": "", 
+            "name": ""
+        },{
+            "vocabulary_id": null, 
+            "state": "active", 
+            "display_name": "", 
+            "id": "", 
+            "name": ""
+        },{
+            "vocabulary_id": null, 
+            "state": "active", 
+            "display_name": "", 
+            "id": "", 
+            "name": ""
+        },{
+            "vocabulary_id": null, 
+            "state": "active", 
+            "display_name": "", 
+            "id": "", 
+            "name": ""
+        },{
+            "vocabulary_id": null, 
+            "state": "active", 
+            "display_name": "", 
+            "id": "", 
+            "name": ""
+        },{
+            "vocabulary_id": null, 
+            "state": "active", 
+            "display_name": "", 
+            "id": "", 
+            "name": ""
+        },{
+            "vocabulary_id": null, 
+            "state": "active", 
+            "display_name": "", 
+            "id": "", 
+            "name": ""
+        },{
+            "vocabulary_id": null, 
+            "state": "active", 
+            "display_name": "", 
+            "id": "", 
+            "name": ""
+        },{
+            "vocabulary_id": null, 
+            "state": "active", 
+            "display_name": "", 
+            "id": "", 
+            "name": ""
+        },{
+            "vocabulary_id": null, 
+            "state": "active", 
+            "display_name": "", 
+            "id": "", 
+            "name": ""
+        },{
+            "vocabulary_id": null, 
+            "state": "active", 
+            "display_name": "", 
+            "id": "", 
+            "name": ""
+        },{
+            "vocabulary_id": null, 
+            "state": "active", 
+            "display_name": "", 
+            "id": "", 
+            "name": ""
+        },{
+            "vocabulary_id": null, 
+            "state": "active", 
+            "display_name": "", 
+            "id": "", 
+            "name": ""
+        },{
+            "vocabulary_id": null, 
+            "state": "active", 
+            "display_name": "", 
+            "id": "", 
+            "name": ""
+        },{
+            "vocabulary_id": null, 
+            "state": "active", 
+            "display_name": "", 
+            "id": "", 
+            "name": ""
+        },{
+            "vocabulary_id": null, 
+            "state": "active", 
+            "display_name": "", 
+            "id": "", 
+            "name": ""
+        },{
+            "vocabulary_id": null, 
+            "state": "active", 
+            "display_name": "", 
+            "id": "", 
+            "name": ""
+        },{
+            "vocabulary_id": null, 
+            "state": "active", 
+            "display_name": "", 
+            "id": "", 
+            "name": ""
+        },{
+            "vocabulary_id": null, 
+            "state": "active", 
+            "display_name": "", 
+            "id": "", 
+            "name": ""
+        },{
+            "vocabulary_id": null, 
+            "state": "active", 
+            "display_name": "", 
+            "id": "", 
+            "name": ""
+        },{
+            "vocabulary_id": null, 
+            "state": "active", 
+            "display_name": "", 
+            "id": "", 
+            "name": ""
+        },{
+            "vocabulary_id": null, 
+            "state": "active", 
+            "display_name": "", 
+            "id": "", 
+            "name": ""
+        },{
+            "vocabulary_id": null, 
+            "state": "active", 
+            "display_name": "", 
+            "id": "", 
+            "name": ""
+        },{
+            "vocabulary_id": null, 
+            "state": "active", 
+            "display_name": "", 
+            "id": "", 
+            "name": ""
+        },{
+            "vocabulary_id": null, 
+            "state": "active", 
+            "display_name": "", 
+            "id": "", 
+            "name": ""
+        },{
+            "vocabulary_id": null, 
+            "state": "active", 
+            "display_name": "", 
+            "id": "", 
+            "name": ""
+        },{
+            "vocabulary_id": null, 
+            "state": "active", 
+            "display_name": "", 
+            "id": "", 
+            "name": ""
+        },{
+            "vocabulary_id": null, 
+            "state": "active", 
+            "display_name": "", 
+            "id": "", 
+            "name": ""
+        },{
+            "vocabulary_id": null, 
+            "state": "active", 
+            "display_name": "", 
+            "id": "", 
+            "name": ""
+        },{
+            "vocabulary_id": null, 
+            "state": "active", 
+            "display_name": "", 
+            "id": "", 
+            "name": ""
+        },{
+            "vocabulary_id": null, 
+            "state": "active", 
+            "display_name": "", 
+            "id": "", 
+            "name": ""
+        },{
+            "vocabulary_id": null, 
+            "state": "active", 
+            "display_name": "", 
+            "id": "", 
+            "name": ""
+        }], 
+    "language": "FR", 
+    "methodologie": "",  
+    "groups": [
+        {
+            "display_name": "",
+            "description": "",
+            "image_display_url": "",
+            "title": "",
+            "id": "",
+            "name": ""
+        },
+        {
+            "display_name": "",
+            "description": "",
+            "image_display_url": "",
+            "title": "",
+            "id": "",
+            "name": ""
+        },
+        {
+            "display_name": "",
+            "description": "",
+            "image_display_url": "",
+            "title": "",
+            "id": "",
+            "name": ""
+        },
+        {
+            "display_name": "",
+            "description": "",
+            "image_display_url": "",
+            "title": "",
+            "id": "",
+            "name": ""
+        },
+        {
+            "display_name": "",
+            "description": "",
+            "image_display_url": "",
+            "title": "",
+            "id": "",
+            "name": ""
+        },
+        {
+            "display_name": "",
+            "description": "",
+            "image_display_url": "",
+            "title": "",
+            "id": "",
+            "name": ""
+        },
+        {
+            "display_name": "",
+            "description": "",
+            "image_display_url": "",
+            "title": "",
+            "id": "",
+            "name": ""
+        },
+        {
+            "display_name": "",
+            "description": "",
+            "image_display_url": "",
+            "title": "",
+            "id": "",
+            "name": ""
+        },
+        {
+            "display_name": "",
+            "description": "",
+            "image_display_url": "",
+            "title": "",
+            "id": "",
+            "name": ""
+        },
+        {
+            "display_name": "",
+            "description": "",
+            "image_display_url": "",
+            "title": "",
+            "id": "",
+            "name": ""
+        }
+    ],
+    "creator_user_id": "", 
+    "relationships_as_subject": [], 
+    "ext_spatial": "", 
+    "organization": {
+        "created": "", 
+        "title": "", 
+        "name": "", 
+        "is_organization": true, 
+        "state": "active", 
+        "image_url": "",
+        "revision_id": "", 
+        "type": "", 
+        "id": "", 
+        "approval_status": ""
+        }, 
+    "name": "", 
+    "isopen": true, 
+    "url": "", 
+    "notes": "",
+    "owner_org": "", 
+    "license_url": "https://www.donneesquebec.ca/fr/licence/#cc-by", 
+    "title": "", 
+    "revision_id": ""
+    }

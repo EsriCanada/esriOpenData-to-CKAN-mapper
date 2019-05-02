@@ -1,0 +1,87 @@
+
+
+Processus de moissonnage exécuté pour : [ville-de-shawinigan]
+----- Correspondance trouvée.
+----- 37 couches présentes sur OpenData.
+----- Début du traitement
+---- ---- Parcs avec services
+---- ---- ---- catégories : "tourisme-sports-loisirs"
+---- ---- Stationnements publics (polygone)
+---- ---- ---- catégories : "transport","infrastructures"
+---- ---- Stationnements publics (ponctuel)
+---- ---- ---- catégories : (vide)
+---- ---- Sentier de raquette
+---- ---- ---- catégories : (vide)
+---- ---- Borne de recharge électrique
+---- ---- ---- catégories : "transport"
+---- ---- Infrastructures sportives
+---- ---- ---- catégories : "tourisme-sports-loisirs","infrastructures"
+---- ---- Limite municipale
+---- ---- ---- catégories : "gouvernement-finances"
+---- ---- Bâtiments
+---- ---- ---- catégories : "infrastructures"
+---- ---- WiFi public
+---- ---- ---- catégories : "tourisme-sports-loisirs","infrastructures"
+---- ---- WiFi public - Zone
+---- ---- ---- catégories : "tourisme-sports-loisirs","infrastructures"
+---- ---- Route Verte
+---- ---- ---- catégories : "tourisme-sports-loisirs"
+---- ---- Pistes cyclables
+---- ---- ---- catégories : "tourisme-sports-loisirs"
+---- ---- Reseau routier (Polygone)
+---- ---- ---- catégories : "transport","infrastructures"
+---- ---- Sentiers pédestres
+---- ---- ---- catégories : "tourisme-sports-loisirs"
+---- ---- Sentiers de VTT
+---- ---- ---- catégories : "tourisme-sports-loisirs"
+---- ---- Sentiers de motoneige
+---- ---- ---- catégories : "tourisme-sports-loisirs"
+---- ---- Bottin vert
+---- ---- ---- catégories : "environnement-ressources-naturelles-energie"
+---- ---- Parcs et espaces verts
+---- ---- ---- catégories : "tourisme-sports-loisirs","infrastructures"
+---- ---- Piscines extérieures
+---- ---- ---- catégories : "infrastructures","tourisme-sports-loisirs"
+---- ---- Rampes de mise à l'eau
+---- ---- ---- catégories : "tourisme-sports-loisirs","infrastructures"
+---- ---- Arénas
+---- ---- ---- catégories : "tourisme-sports-loisirs"
+---- ---- Bibliothèques
+---- ---- ---- catégories : "societe-culture","education-recherche"
+---- ---- Affectation du sol
+---- ---- ---- catégories : "gouvernement-finances"
+---- ---- Zonage municipal
+---- ---- ---- catégories : "gouvernement-finances"
+---- ---- Bâtiments patrimoniaux
+---- ---- ---- catégories : "tourisme-sports-loisirs","societe-culture"
+---- ---- Casernes
+---- ---- ---- catégories : "loi-justice-securite-publique"
+---- ---- Stationnements réservés aux personnes handicapées
+---- ---- ---- catégories : "transport","infrastructures"
+---- ---- RTCS - Accès Bus
+---- ---- ---- catégories : (vide)
+---- ---- RTCS - Points de chute
+---- ---- ---- catégories : (vide)
+---- ---- RTCS - Points de vente
+---- ---- ---- catégories : "transport"
+---- ---- RTCS - Arrêts de bus
+---- ---- ---- catégories : "transport"
+---- ---- RTCS - Circuit 1
+---- ---- ---- catégories : "transport"
+---- ---- RTCS - Circuit 2
+---- ---- ---- catégories : "transport"
+---- ---- RTCS - Circuit 2 après 18h
+---- ---- ---- catégories : "transport"
+---- ---- RTCS - Circuit 3
+---- ---- ---- catégories : "transport"
+---- ---- Réseau routier
+---- ---- ---- catégories : "infrastructures","transport"
+---- ---- Événements 2019
+---- ---- ---- catégories : (vide)
+----- Fin de l'écriture du CSV initial
+
+
+----- L'index n'existe pas. Création de l'index initial
+----- Traitement effectué en 7.589998 secondes
+Fin du Processus de moissonnage de : [ville-de-shawinigan]
+Fin des opérations : 2019-04-26 14:35:08.744763

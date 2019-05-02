@@ -1,0 +1,86 @@
+
+
+Processus de moissonnage exécuté pour : [ville-de-shawinigan]
+----- Correspondance trouvée.
+----- 36 couches présentes sur OpenData.
+----- Début du traitement
+---- ---- Stationnements publics (polygone)
+---- ---- ---- catégories : (vide)
+---- ---- Stationnements publics (ponctuel)
+---- ---- ---- catégories : (vide)
+---- ---- Borne de recharge électrique
+---- ---- ---- catégories : "transport"
+---- ---- RTCS - Accès Bus
+---- ---- ---- catégories : (vide)
+---- ---- RTCS - Points de chute
+---- ---- ---- catégories : (vide)
+---- ---- WiFi public - Zone
+---- ---- ---- catégories : (vide)
+---- ---- Stationnements réservés aux personnes handicapées
+---- ---- ---- catégories : "transport"
+---- ---- Casernes
+---- ---- ---- catégories : (vide)
+---- ---- Bâtiments patrimoniaux
+---- ---- ---- catégories : (vide)
+---- ---- Zonage municipal
+---- ---- ---- catégories : (vide)
+---- ---- Affectation du sol
+---- ---- ---- catégories : (vide)
+---- ---- Bibliothèques
+---- ---- ---- catégories : (vide)
+---- ---- Arénas
+---- ---- ---- catégories : (vide)
+---- ---- Rampes de mise à l'eau
+---- ---- ---- catégories : (vide)
+---- ---- Piscines extérieures
+---- ---- ---- catégories : (vide)
+---- ---- Parcs et espaces verts
+---- ---- ---- catégories : (vide)
+---- ---- RTCS - Points de vente
+---- ---- ---- catégories : "transport"
+---- ---- RTCS - Arrêts de bus
+---- ---- ---- catégories : "transport"
+---- ---- RTCS - Circuit 1
+---- ---- ---- catégories : "transport"
+---- ---- RTCS - Circuit 2
+---- ---- ---- catégories : "transport"
+---- ---- RTCS - Circuit 2 après 18h
+---- ---- ---- catégories : "transport"
+---- ---- RTCS - Circuit 3
+---- ---- ---- catégories : "transport"
+---- ---- Bottin vert
+---- ---- ---- catégories : (vide)
+---- ---- Sentiers de motoneige
+---- ---- ---- catégories : (vide)
+---- ---- Sentiers de VTT
+---- ---- ---- catégories : (vide)
+---- ---- Sentiers pédestres
+---- ---- ---- catégories : (vide)
+---- ---- Réseau routier
+---- ---- ---- catégories : "infrastructures","transport"
+---- ---- Reseau routier (Polygone)
+---- ---- ---- catégories : (vide)
+---- ---- Route Verte
+---- ---- ---- catégories : (vide)
+---- ---- Pistes cyclables
+---- ---- ---- catégories : (vide)
+---- ---- WiFi public
+---- ---- ---- catégories : (vide)
+---- ---- Bâtiments
+---- ---- ---- catégories : (vide)
+---- ---- Événements 2019
+---- ---- ---- catégories : (vide)
+---- ---- Limite municipale
+---- ---- ---- catégories : (vide)
+---- ---- Sentier de raquette
+---- ---- ---- catégories : (vide)
+---- ---- Infrastructures sportives
+---- ---- ---- catégories : (vide)
+----- Fin de l'écriture du CSV initial
+
+
+----- L'index existe. Mise à jour de l'index.
+----- ----- 41 couches sur CKAN
+----- Traitement effectué en 7.717571 secondes
+Fin du Processus de moissonnage de : [ville-de-shawinigan]
+Fin des opérations : 2019-03-20 09:13:43.700427

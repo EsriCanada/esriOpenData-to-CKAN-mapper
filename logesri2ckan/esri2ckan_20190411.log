@@ -1,0 +1,46 @@
+
+
+Processus de moissonnage exécuté pour : [ville-de-sherbrooke-donnees-geomatiques]
+----- Correspondance trouvée.
+----- 16 couches présentes sur OpenData.
+----- Début du traitement
+---- ---- Segments de rue
+---- ---- ---- catégories : "infrastructures","transport"
+---- ---- Zones inondables
+---- ---- ---- catégories : "environnement-ressources-naturelles-energie","loi-justice-securite-publique"
+---- ---- Zones de glissement de terrain
+---- ---- ---- catégories : "loi-justice-securite-publique","environnement-ressources-naturelles-energie"
+---- ---- Stationnements publics
+---- ---- ---- catégories : "transport"
+---- ---- Sites d'intérêt
+---- ---- ---- catégories : "infrastructures","tourisme-sports-loisirs"
+---- ---- Secteurs de collecte des matières résiduelles
+---- ---- ---- catégories : "environnement-ressources-naturelles-energie"
+---- ---- Périmètre urbain
+---- ---- ---- catégories : "gouvernement-finances"
+---- ---- Pistes cyclables
+---- ---- ---- catégories : "infrastructures","transport","tourisme-sports-loisirs"
+---- ---- Horodateurs
+---- ---- ---- catégories : "transport"
+---- ---- Panonceaux d'espace de stationnement
+---- ---- ---- catégories : "transport"
+---- ---- Districts électoraux
+---- ---- ---- catégories : "gouvernement-finances"
+---- ---- Courbes de niveau
+---- ---- ---- catégories : "environnement-ressources-naturelles-energie"
+---- ---- Bâtiments
+---- ---- ---- catégories : "infrastructures"
+---- ---- Arrondissements
+---- ---- ---- catégories : "gouvernement-finances"
+---- ---- Aires aménagées
+---- ---- ---- catégories : "environnement-ressources-naturelles-energie","tourisme-sports-loisirs"
+---- ---- Incidents de sécurité publique
+---- ---- ---- catégories : "loi-justice-securite-publique"
+----- Fin de l'écriture du CSV initial
+
+
+----- L'index existe. Mise à jour de l'index.
+----- ----- 15 couches sur CKAN
+----- Traitement effectué en 3.927444 secondes
+Fin du Processus de moissonnage de : [ville-de-sherbrooke-donnees-geomatiques]
+Fin des opérations : 2019-04-11 11:47:12.280844

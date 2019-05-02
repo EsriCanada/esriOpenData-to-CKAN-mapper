@@ -1,0 +1,73 @@
+
+
+Processus de moissonnage exécuté pour : [ville-de-shawinigan]
+----- Correspondance trouvée.
+----- 30 couches présentes sur OpenData.
+----- Début du traitement
+---- ---- Bâtiments patrimoniaux
+---- ---- ---- catégories : (vide)
+---- ---- Zonage municipal
+---- ---- ---- catégories : (vide)
+---- ---- Affectation du sol
+---- ---- ---- catégories : (vide)
+---- ---- Bibliothèques
+---- ---- ---- catégories : (vide)
+---- ---- Arénas
+---- ---- ---- catégories : (vide)
+---- ---- Rampes de mise à l'eau
+---- ---- ---- catégories : (vide)
+---- ---- Piscines extérieures
+---- ---- ---- catégories : (vide)
+---- ---- Stationnements publics
+---- ---- ---- catégories : "transport"
+---- ---- Parcs et espaces verts
+---- ---- ---- catégories : (vide)
+---- ---- RTCS - Points de vente
+---- ---- ---- catégories : "transport"
+---- ---- RTCS - Arrêts de bus
+---- ---- ---- catégories : "transport"
+---- ---- RTCS - Circuit 1
+---- ---- ---- catégories : "transport"
+---- ---- RTCS - Circuit 2
+---- ---- ---- catégories : "transport"
+---- ---- RTCS - Circuit 2 après 18h
+---- ---- ---- catégories : "transport"
+---- ---- RTCS - Circuit 3
+---- ---- ---- catégories : "transport"
+---- ---- Bottin vert
+---- ---- ---- catégories : (vide)
+---- ---- Sentiers de motoneige
+---- ---- ---- catégories : (vide)
+---- ---- Sentiers de VTT
+---- ---- ---- catégories : (vide)
+---- ---- Sentiers pédestres
+---- ---- ---- catégories : (vide)
+---- ---- Réseau routier
+---- ---- ---- catégories : "infrastructures","transport"
+---- ---- Reseau routier (Polygone)
+---- ---- ---- catégories : (vide)
+---- ---- Route Verte
+---- ---- ---- catégories : (vide)
+---- ---- Pistes cyclables
+---- ---- ---- catégories : (vide)
+---- ---- WiFi public
+---- ---- ---- catégories : (vide)
+---- ---- WiFi public - Zone
+---- ---- ---- catégories : (vide)
+---- ---- Bâtiments
+---- ---- ---- catégories : (vide)
+---- ---- Événements 2019
+---- ---- ---- catégories : (vide)
+---- ---- Limite municipale
+---- ---- ---- catégories : (vide)
+---- ---- Sentier de raquette
+---- ---- ---- catégories : (vide)
+---- ---- Infrastructures sportives
+---- ---- ---- catégories : (vide)
+----- Fin de l'écriture du CSV initial
+
+
+----- L'index n'existe pas. Création de l'index initial
+----- Traitement effectué en 6.177064 secondes
+Fin du Processus de moissonnage de : [ville-de-shawinigan]
+Fin des opérations : 2019-02-21 13:05:07.856596
